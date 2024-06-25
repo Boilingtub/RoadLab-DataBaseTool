@@ -1,0 +1,1 @@
+Provider=SQLOLEDB.1;Password=P@ssw0rd;Persist Security Info=True;User ID=sa;Initial Catalog=LABS NEW;Data Source=DESKTOP-1FECIJH
